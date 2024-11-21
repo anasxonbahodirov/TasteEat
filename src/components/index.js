@@ -1,0 +1,10 @@
+export { Header } from "./header";
+export { PrimaryButton } from "./primaryButton";
+export { SecondaryButton } from "./secondaryButton"; 
+export { ContactsSection } from './contacts-section';
+export { ContainerWrapper } from './container-wrapper';
+export { MenuSection } from './menu-section' 
+export { ClientsComments } from './clients-comments'
+export { OfferedDishes } from './offered-dishes'
+export { PopularDishes } from './popular-dishes'
+export { GreatServices } from './great-services'
